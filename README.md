@@ -86,8 +86,8 @@ I enjoy turning operational problems into simple, useful digital products.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shohidulrpl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9&icon_color=00E5A8&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohidulrpl&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9" alt="Most used languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=shohidulrpl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9&icon_color=00E5A8&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shohidulrpl&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9" alt="Most used languages" />
 
 <br/>
 
