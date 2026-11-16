@@ -27,22 +27,32 @@ I enjoy turning operational problems into simple, useful digital products.
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/shohidulrpl/attendance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=attendance&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Attendance project card" />
-</a>
-<a href="https://github.com/shohidulrpl/canteen2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=canteen2&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Canteen2 project card" />
-</a>
-<a href="https://github.com/shohidulrpl/meal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=meal&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Meal project card" />
-</a>
-<a href="https://github.com/shohidulrpl/app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=app&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="App project card" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 Attendance — Radiant Hajira</h3>
+      <p>Staff attendance tracking with cloud logging and automated reporting.</p>
+      <a href="https://github.com/shohidulrpl/attendance">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Canteen2</h3>
+      <p>Chattogram Canteen dashboard for daily and monthly meal information.</p>
+      <a href="https://github.com/shohidulrpl/canteen2">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥗 Meal</h3>
+      <p>CTG Canteen portal for meal submission and administration.</p>
+      <a href="https://github.com/shohidulrpl/meal">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 App</h3>
+      <p>CamScanner Pro promotional and order landing page.</p>
+      <a href="https://github.com/shohidulrpl/app">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
 ### Project Overview
 
