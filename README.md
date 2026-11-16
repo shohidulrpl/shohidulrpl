@@ -1,68 +1,109 @@
 <div align="center">
 
-<!-- Gradient Wave Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Md.%20Shohidul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20App%20Developer%20%E2%80%A2%20Workflow%20Automation%20Engineer&descSize=18&descAlignY=60" width="100%" />
+<img src="assets/profile-banner.svg" width="100%" alt="Shohidul Islam — Developer Portfolio Banner" />
 
-<!-- Action & Portfolio Pills -->
-<p>
-  <a href="https://shohidulrpl.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-shohidulrpl.github.io-2563eb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://shohidulrpl.github.io/attendance/">
-    <img src="https://img.shields.io/badge/Flagship_App-Radiant_Hajira-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Radiant Hajira" />
-  </a>
-  <img src="https://img.shields.io/badge/Chattogram-Bangladesh-16a34a?style=for-the-badge" alt="Location" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5A8&center=true&vCenter=true&width=720&lines=Web+Application+Developer;Workflow+Automation+Enthusiast;Building+Practical+Digital+Solutions;Turning+Ideas+Into+Useful+Products)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A982?style=for-the-badge&logo=githubpages&logoColor=white)](https://shohidulrpl.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github)](https://github.com/shohidulrpl)
+[![Location](https://img.shields.io/badge/Location-Bangladesh-0B7A53?style=for-the-badge)](https://github.com/shohidulrpl)
 
 </div>
 
 ---
 
-### About Me
-I build lightweight web applications, automated operational workflows, and cloud-connected business tools that replace repetitive manual tasks.
+## About Me
 
-- **Web & Utility Applications:** Building fast, browser-based tools and organizational portals deployed on **GitHub Pages** (`HTML5`, `CSS3`, `JavaScript`, `TypeScript`)[cite: 2].
-- **Workflow & Cloud Automation:** Designing webhook-driven attendance, reporting, and messaging pipelines with **n8n**, **Firebase**, and **Google Sheets**[cite: 2].
-- **Data & Process Engineering:** Automating spreadsheets, data transformation, and browser tasks using **Python** (`Pandas`, `Selenium`, `OpenPyXL`) and **Excel / Power Query**[cite: 2].
-- **Mobile & Creative Tech:** Developing native Android utilities in **Kotlin** alongside microstock vector/3D design and commercial audio production[cite: 2].
+I'm **Md. Shohidul Islam**, a developer focused on building practical web applications, digital tools, and workflow automation that make everyday processes simpler.
 
----
+- Build responsive, browser-based applications and portals.
+- Create workflow automations using **n8n**, webhooks, and connected services.
+- Work with **Firebase** and **Google Sheets** for cloud-connected data workflows.
+- Develop utility tools and lightweight solutions for real-world needs.
 
-### Featured Projects
-
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **Radiant Hajira** | Digital staff attendance tracking system with real-time cloud logging and automated reporting. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/attendance/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/attendance) |
-| **Nagorik Hospital Portal** | Responsive hospital and healthcare service web portal with department and doctor directories. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/nagorik-hospital/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/nagorik-hospital) |
-| **Chattogram Meal Database** | Daily meal tracking and dining management system built for streamlined organizational food logging. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/meal/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/meal) |
-| **Monthly Hisab** | Personal and operational monthly expense, ledger, and financial balance calculator web app. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/hisab/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/hisab) |
-| **Mobile EMI Calculator** | Interactive installment and financing calculator for quick mobile and consumer device EMI breakdowns. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/emi/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/emi) |
-| **Browser Background Remover** | Client-side image background removal utility built for fast graphic and e-commerce asset prep. | [![Live](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square)](https://shohidulrpl.github.io/bgremover/) [![Code](https://img.shields.io/badge/Code-0f172a?style=flat-square)](https://github.com/shohidulrpl/bgremover) |
+I enjoy turning operational problems into simple, useful digital products.
 
 ---
 
-### Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-</p>
-
----
-
-### GitHub Activity
+## Featured Projects
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shohidulrpl&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=38bdf8" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shohidulrpl&hide_border=true&background=0f172a&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+
+<a href="https://github.com/shohidulrpl/attendance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=attendance&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Attendance project card" />
+</a>
+<a href="https://github.com/shohidulrpl/canteen2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=canteen2&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Canteen2 project card" />
+</a>
+<a href="https://github.com/shohidulrpl/meal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=meal&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="Meal project card" />
+</a>
+<a href="https://github.com/shohidulrpl/app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohidulrpl&repo=app&theme=github_dark&hide_border=true&title_color=00E5A8&icon_color=00E5A8" alt="App project card" />
+</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
+### Project Overview
+
+| Project | What it does | Links |
+|:--|:--|:--|
+| **Attendance — Radiant Hajira** | Staff attendance tracking with cloud logging and automated reporting using n8n, Firebase, and Google Sheets. | [Live app](https://shohidulrpl.github.io/attendance/) · [Source](https://github.com/shohidulrpl/attendance) |
+| **Canteen2** | Chattogram Canteen dashboard showing monthly and daily meal totals, date selection, and an admin entry point. | [Open app](https://shohidulrpl.github.io/canteen2/) · [Source](https://github.com/shohidulrpl/canteen2) |
+| **Meal** | CTG Canteen portal with meal submission and an admin login interface. | [Open app](https://shohidulrpl.github.io/meal/) · [Source](https://github.com/shohidulrpl/meal) |
+| **App** | CamScanner Pro promotional and order landing page. | [Source](https://github.com/shohidulrpl/app) |
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shohidulrpl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9&icon_color=00E5A8&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohidulrpl&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9" alt="Most used languages" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=shohidulrpl&theme=dark&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shohidulrpl&bg_color=0D1117&color=00E5A8&line=00C896&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-shohidulrpl-181717?style=for-the-badge&logo=github)](https://github.com/shohidulrpl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00A982?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shohidulrpl.github.io/portfolio/)
+
+**Thanks for visiting my profile. Let's build something useful together!**
+
+</div>
